@@ -5,11 +5,11 @@ Sistema de Gestión de Proyectos - API REST Laravel
 
 UNIVERSIDAD TECNOLOGICA BOLIVIANA - UTB
 ESTUDIANTE: Carlos Enrique Tinta Condori
-DOCENTE: Miguel Angel Mendoza terrazas
-CARRERA:  Ingeniería en Sistemas
+DOCENTE: Miguel Angel Mendoza Terrazas
+CARRERA: Ingeniería en Sistemas
 MATERIA: Programación III
-SEMERSTRE:  4to Semestre 
-PARALELO:  A
+SEMESTRE: 4to Semestre
+PARALELO: A
 
 
 Este proyecto fue desarrollado utilizando Laravel y tiene como objetivo gestionar proyectos, categorías, etiquetas y comentarios mediante una API REST.
