@@ -1,14 +1,17 @@
-
-
 Sistema de Gestión de Proyectos - API REST Laravel
 
-
 UNIVERSIDAD TECNOLOGICA BOLIVIANA - UTB
+
 ESTUDIANTE: Carlos Enrique Tinta Condori
+
 DOCENTE: Miguel Angel Mendoza Terrazas
+
 CARRERA: Ingeniería en Sistemas
+
 MATERIA: Programación III
+
 SEMESTRE: 4to Semestre
+
 PARALELO: A
 
 
